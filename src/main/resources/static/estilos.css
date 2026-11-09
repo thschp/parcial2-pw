@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; }
+table, th, td { border: 1px solid black; border-collapse: collapse; }
+th, td, input, select, button { padding: 5px; }
+form, label { margin: 8px; }
+.error { color: red; }
